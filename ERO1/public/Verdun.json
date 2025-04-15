@@ -1,0 +1,34 @@
+{
+  "pricingPlans": [
+    {
+      "name": "TYPE I",
+      "snowplows1": 10,
+      "snowplows2": 0,
+      "distance_deneigeuse1": 89.62769399999976,
+      "distance_deneigeuse2": 95.956995,
+      "distance_drone": 0.0,
+      "duration": 4820,
+      "duration_drone": 4820
+    },
+    {
+      "name": "TYPE II",
+      "snowplows1": 0,
+      "snowplows2": 10,
+      "distance_deneigeuse1": 89.62769399999976,
+      "distance_deneigeuse2": 95.956995,
+      "distance_drone": 0.0,
+      "duration": 2410,
+      "duration_drone": 4820
+    },
+    {
+      "name": "TYPE I et II",
+      "snowplows1": 5,
+      "snowplows2": 5,
+      "distance_deneigeuse1": 89.62769399999976,
+      "distance_deneigeuse2": 95.956995,
+      "distance_drone": 0.0,
+      "duration": 2410,
+      "duration_drone": 4820
+    }
+  ]
+}
